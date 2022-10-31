@@ -11,3 +11,6 @@ forge init
 
 ### More info on foundry: 
 https://github.com/foundry-rs/foundry
+
+### Foundry docs:
+https://book.getfoundry.sh/
